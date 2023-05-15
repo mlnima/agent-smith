@@ -1,17 +1,15 @@
 # Agent-Smith
 
-Agent-Smith is an Artificial General Intelligence (AGI) autopilot AI project that aims to accomplish tasks autonomously by leveraging external APIs such as [OpenAI's ChatGPT](https://openai.com/chatgpt) or [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui). The project processes a list of tasks and runs them until completion.
-
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
+Agent-Smith is an Artificial General Intelligence in the future (AGI) autopilot AI project that aims to accomplish tasks 
+autonomously by leveraging external APIs such as [OpenAI's ChatGPT](https://openai.com/chatgpt) or
+[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) or using Transformers Agent library.
+The project processes a list of tasks and runs them until completion.
 
 ## Installation
 
 To install and set up Agent-Smith, follow these steps:
+
+pip install -r requirements.txt
 
 1. Clone the repository:
 
